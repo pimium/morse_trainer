@@ -1,0 +1,6 @@
+[submodule "morse_trainer_avr"]
+	path = morse_trainer_avr
+	url = ./morse_trainer_avr/
+[submodule "morse_trainer_kicad"]
+	path = morse_trainer_kicad
+	url = ./morse_trainer_kicad
