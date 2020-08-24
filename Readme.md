@@ -1,6 +1,6 @@
 # Morse Trainer
 
-![Foto](morse_trainer_kicad/images/morse_trainer.png)
+![Foto](https://github.com/pimium/morse_trainer_kicad/blob/master/images/morse_trainer.png)
 
 ## The Board
 [The schematc and board](morse_trainer_kicad/Readme.md)
